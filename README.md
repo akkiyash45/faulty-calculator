@@ -1,2 +1,2 @@
 # faulty-calculator
-This calculator show the  10% wrong answer..
+This calculator shows 10% wrong answers and 90% correct answer
